@@ -44,16 +44,16 @@ li.homepage {
 }
 
 .peach-text {
-  position:absolute;
+  position:fixed;
   right: 5px;
   width: 300px;
-  border: 10px solid #73AD21;
+  border: 10px solid #212fad;
   padding: 100px;
    }
 
 
    .peach-img {
-    position:absolute;
+    position:fixed;
     width: 500px;
     height: auto;
     left: 5px;
